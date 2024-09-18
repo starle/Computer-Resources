@@ -1,4 +1,6 @@
 distributed algorithm:
     Paxos
     there is a example help to understand writing concurrently scene
-    https://blog.openacid.com/algo/paxos/    
+    https://blog.openacid.com/algo/paxos/  
+
+    https://icyfenix.cn/distribution/consensus/paxos.html
